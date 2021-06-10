@@ -1,0 +1,7 @@
+/.metadata/
+.*
+!/.gitignore
+mvn*
+nohup*
+log*
+target*
